@@ -1,0 +1,1972 @@
+{
+    "program": [
+        {
+            "id": "1",
+            "dayOfWeek": "1",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "2",
+            "dayOfWeek": "1",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "3",
+            "dayOfWeek": "1",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "4",
+            "dayOfWeek": "1",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "5",
+            "dayOfWeek": "1",
+            "startHour": "07:00:01",
+            "endHour": "07:35:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "6",
+            "dayOfWeek": "1",
+            "startHour": "07:35:01",
+            "endHour": "08:00:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "7",
+            "dayOfWeek": "1",
+            "startHour": "08:00:01",
+            "endHour": "08:15:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "8",
+            "dayOfWeek": "1",
+            "startHour": "08:15:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "9",
+            "dayOfWeek": "1",
+            "startHour": "08:30:01",
+            "endHour": "09:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "10",
+            "dayOfWeek": "1",
+            "startHour": "09:00:01",
+            "endHour": "09:10:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "11",
+            "dayOfWeek": "1",
+            "startHour": "09:10:01",
+            "endHour": "09:50:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "12",
+            "dayOfWeek": "1",
+            "startHour": "09:50:01",
+            "endHour": "10:15:00",
+            "title": "Przegl\u0105d prasy katolickiej z Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "13",
+            "dayOfWeek": "1",
+            "startHour": "10:15:01",
+            "endHour": "10:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "14",
+            "dayOfWeek": "1",
+            "startHour": "10:20:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "15",
+            "dayOfWeek": "1",
+            "startHour": "11:00:01",
+            "endHour": "11:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "16",
+            "dayOfWeek": "1",
+            "startHour": "11:30:01",
+            "endHour": "12:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "17",
+            "dayOfWeek": "1",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "18",
+            "dayOfWeek": "1",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "19",
+            "dayOfWeek": "1",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "20",
+            "dayOfWeek": "1",
+            "startHour": "12:25:01",
+            "endHour": "13:15:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "21",
+            "dayOfWeek": "1",
+            "startHour": "13:15:01",
+            "endHour": "13:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "22",
+            "dayOfWeek": "1",
+            "startHour": "13:20:01",
+            "endHour": "14:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "23",
+            "dayOfWeek": "1",
+            "startHour": "14:00:01",
+            "endHour": "15:00:00",
+            "title": "Powt\u00f3rka audycji z dnia poprzedniego",
+            "author": ""
+        },
+        {
+            "id": "24",
+            "dayOfWeek": "1",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "25",
+            "dayOfWeek": "1",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "26",
+            "dayOfWeek": "1",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "27",
+            "dayOfWeek": "1",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "28",
+            "dayOfWeek": "1",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "29",
+            "dayOfWeek": "1",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "30",
+            "dayOfWeek": "1",
+            "startHour": "17:00:01",
+            "endHour": "17:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "31",
+            "dayOfWeek": "1",
+            "startHour": "17:30:01",
+            "endHour": "18:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "32",
+            "dayOfWeek": "1",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Audycja na \u017cywo ze studia Radia Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "33",
+            "dayOfWeek": "1",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "34",
+            "dayOfWeek": "1",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "35",
+            "dayOfWeek": "1",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "36",
+            "dayOfWeek": "1",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "37",
+            "dayOfWeek": "2",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "38",
+            "dayOfWeek": "2",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "39",
+            "dayOfWeek": "2",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "40",
+            "dayOfWeek": "2",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "41",
+            "dayOfWeek": "2",
+            "startHour": "07:00:01",
+            "endHour": "07:35:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "42",
+            "dayOfWeek": "2",
+            "startHour": "07:35:01",
+            "endHour": "08:00:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "43",
+            "dayOfWeek": "2",
+            "startHour": "08:00:01",
+            "endHour": "08:15:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "44",
+            "dayOfWeek": "2",
+            "startHour": "08:15:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "45",
+            "dayOfWeek": "2",
+            "startHour": "08:30:01",
+            "endHour": "09:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "46",
+            "dayOfWeek": "2",
+            "startHour": "09:00:01",
+            "endHour": "09:10:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "47",
+            "dayOfWeek": "2",
+            "startHour": "09:10:01",
+            "endHour": "09:50:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "48",
+            "dayOfWeek": "2",
+            "startHour": "09:50:01",
+            "endHour": "10:15:00",
+            "title": "Przegl\u0105d prasy katolickiej z Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "49",
+            "dayOfWeek": "2",
+            "startHour": "10:15:01",
+            "endHour": "10:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "50",
+            "dayOfWeek": "2",
+            "startHour": "10:20:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "51",
+            "dayOfWeek": "2",
+            "startHour": "11:00:01",
+            "endHour": "11:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "52",
+            "dayOfWeek": "2",
+            "startHour": "11:30:01",
+            "endHour": "12:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "53",
+            "dayOfWeek": "2",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "54",
+            "dayOfWeek": "2",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "55",
+            "dayOfWeek": "2",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "56",
+            "dayOfWeek": "2",
+            "startHour": "12:25:01",
+            "endHour": "13:15:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "57",
+            "dayOfWeek": "2",
+            "startHour": "13:15:01",
+            "endHour": "13:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "58",
+            "dayOfWeek": "2",
+            "startHour": "13:20:01",
+            "endHour": "14:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "59",
+            "dayOfWeek": "2",
+            "startHour": "14:00:01",
+            "endHour": "15:00:00",
+            "title": "Powt\u00f3rka audycji z dnia poprzedniego",
+            "author": ""
+        },
+        {
+            "id": "60",
+            "dayOfWeek": "2",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "61",
+            "dayOfWeek": "2",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "62",
+            "dayOfWeek": "2",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "63",
+            "dayOfWeek": "2",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "64",
+            "dayOfWeek": "2",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "65",
+            "dayOfWeek": "2",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "66",
+            "dayOfWeek": "2",
+            "startHour": "17:00:01",
+            "endHour": "17:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "67",
+            "dayOfWeek": "2",
+            "startHour": "17:30:01",
+            "endHour": "18:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "68",
+            "dayOfWeek": "2",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Audycja na \u017cywo ze studia Radia Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "69",
+            "dayOfWeek": "2",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "70",
+            "dayOfWeek": "2",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "71",
+            "dayOfWeek": "2",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "72",
+            "dayOfWeek": "2",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "73",
+            "dayOfWeek": "3",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "74",
+            "dayOfWeek": "3",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "75",
+            "dayOfWeek": "3",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "76",
+            "dayOfWeek": "3",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "77",
+            "dayOfWeek": "3",
+            "startHour": "07:00:01",
+            "endHour": "07:35:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "78",
+            "dayOfWeek": "3",
+            "startHour": "07:35:01",
+            "endHour": "08:00:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "79",
+            "dayOfWeek": "3",
+            "startHour": "08:00:01",
+            "endHour": "08:15:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "80",
+            "dayOfWeek": "3",
+            "startHour": "08:15:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "81",
+            "dayOfWeek": "3",
+            "startHour": "08:30:01",
+            "endHour": "09:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "82",
+            "dayOfWeek": "3",
+            "startHour": "09:00:01",
+            "endHour": "09:10:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "83",
+            "dayOfWeek": "3",
+            "startHour": "09:10:01",
+            "endHour": "09:50:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "84",
+            "dayOfWeek": "3",
+            "startHour": "09:50:01",
+            "endHour": "10:15:00",
+            "title": "Przegl\u0105d prasy katolickiej z Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "85",
+            "dayOfWeek": "3",
+            "startHour": "10:15:01",
+            "endHour": "10:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "86",
+            "dayOfWeek": "3",
+            "startHour": "10:20:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "87",
+            "dayOfWeek": "3",
+            "startHour": "11:00:01",
+            "endHour": "11:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "88",
+            "dayOfWeek": "3",
+            "startHour": "11:30:01",
+            "endHour": "12:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "89",
+            "dayOfWeek": "3",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "90",
+            "dayOfWeek": "3",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "91",
+            "dayOfWeek": "3",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "92",
+            "dayOfWeek": "3",
+            "startHour": "12:25:01",
+            "endHour": "13:15:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "93",
+            "dayOfWeek": "3",
+            "startHour": "13:15:01",
+            "endHour": "13:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "94",
+            "dayOfWeek": "3",
+            "startHour": "13:20:01",
+            "endHour": "14:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "95",
+            "dayOfWeek": "3",
+            "startHour": "14:00:01",
+            "endHour": "15:00:00",
+            "title": "Powt\u00f3rka audycji z dnia poprzedniego",
+            "author": ""
+        },
+        {
+            "id": "96",
+            "dayOfWeek": "3",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "97",
+            "dayOfWeek": "3",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "98",
+            "dayOfWeek": "3",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "99",
+            "dayOfWeek": "3",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "100",
+            "dayOfWeek": "3",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "101",
+            "dayOfWeek": "3",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "102",
+            "dayOfWeek": "3",
+            "startHour": "17:00:01",
+            "endHour": "17:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "103",
+            "dayOfWeek": "3",
+            "startHour": "17:30:01",
+            "endHour": "18:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "104",
+            "dayOfWeek": "3",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Audycja na \u017cywo ze studia Radia Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "105",
+            "dayOfWeek": "3",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "106",
+            "dayOfWeek": "3",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "107",
+            "dayOfWeek": "3",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "108",
+            "dayOfWeek": "3",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "109",
+            "dayOfWeek": "4",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "110",
+            "dayOfWeek": "4",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "111",
+            "dayOfWeek": "4",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "112",
+            "dayOfWeek": "4",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "113",
+            "dayOfWeek": "4",
+            "startHour": "07:00:01",
+            "endHour": "07:35:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "114",
+            "dayOfWeek": "4",
+            "startHour": "07:35:01",
+            "endHour": "08:00:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "115",
+            "dayOfWeek": "4",
+            "startHour": "08:00:01",
+            "endHour": "08:15:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "116",
+            "dayOfWeek": "4",
+            "startHour": "08:15:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "117",
+            "dayOfWeek": "4",
+            "startHour": "08:30:01",
+            "endHour": "09:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "118",
+            "dayOfWeek": "4",
+            "startHour": "09:00:01",
+            "endHour": "09:10:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "119",
+            "dayOfWeek": "4",
+            "startHour": "09:10:01",
+            "endHour": "09:50:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "120",
+            "dayOfWeek": "4",
+            "startHour": "09:50:01",
+            "endHour": "10:15:00",
+            "title": "Przegl\u0105d prasy katolickiej z Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "121",
+            "dayOfWeek": "4",
+            "startHour": "10:15:01",
+            "endHour": "10:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "122",
+            "dayOfWeek": "4",
+            "startHour": "10:20:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "123",
+            "dayOfWeek": "4",
+            "startHour": "11:00:01",
+            "endHour": "11:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "124",
+            "dayOfWeek": "4",
+            "startHour": "11:30:01",
+            "endHour": "12:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "125",
+            "dayOfWeek": "4",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "126",
+            "dayOfWeek": "4",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "127",
+            "dayOfWeek": "4",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "128",
+            "dayOfWeek": "4",
+            "startHour": "12:25:01",
+            "endHour": "13:15:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "129",
+            "dayOfWeek": "4",
+            "startHour": "13:15:01",
+            "endHour": "13:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "130",
+            "dayOfWeek": "4",
+            "startHour": "13:20:01",
+            "endHour": "14:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "131",
+            "dayOfWeek": "4",
+            "startHour": "14:00:01",
+            "endHour": "15:00:00",
+            "title": "Powt\u00f3rka audycji z dnia poprzedniego",
+            "author": ""
+        },
+        {
+            "id": "132",
+            "dayOfWeek": "4",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "133",
+            "dayOfWeek": "4",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "134",
+            "dayOfWeek": "4",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "135",
+            "dayOfWeek": "4",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "136",
+            "dayOfWeek": "4",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "137",
+            "dayOfWeek": "4",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "138",
+            "dayOfWeek": "4",
+            "startHour": "17:00:01",
+            "endHour": "17:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "139",
+            "dayOfWeek": "4",
+            "startHour": "17:30:01",
+            "endHour": "18:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "140",
+            "dayOfWeek": "4",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Audycja na \u017cywo ze studia Radia Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "141",
+            "dayOfWeek": "4",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "142",
+            "dayOfWeek": "4",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "143",
+            "dayOfWeek": "4",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "144",
+            "dayOfWeek": "4",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "145",
+            "dayOfWeek": "5",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "146",
+            "dayOfWeek": "5",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "147",
+            "dayOfWeek": "5",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "148",
+            "dayOfWeek": "5",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "149",
+            "dayOfWeek": "5",
+            "startHour": "07:00:01",
+            "endHour": "07:35:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "150",
+            "dayOfWeek": "5",
+            "startHour": "07:35:01",
+            "endHour": "08:00:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "151",
+            "dayOfWeek": "5",
+            "startHour": "08:00:01",
+            "endHour": "08:15:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "152",
+            "dayOfWeek": "5",
+            "startHour": "08:15:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "153",
+            "dayOfWeek": "5",
+            "startHour": "08:30:01",
+            "endHour": "09:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "154",
+            "dayOfWeek": "5",
+            "startHour": "09:00:01",
+            "endHour": "09:10:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "155",
+            "dayOfWeek": "5",
+            "startHour": "09:10:01",
+            "endHour": "09:50:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "156",
+            "dayOfWeek": "5",
+            "startHour": "09:50:01",
+            "endHour": "10:15:00",
+            "title": "Przegl\u0105d prasy katolickiej z Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "157",
+            "dayOfWeek": "5",
+            "startHour": "10:15:01",
+            "endHour": "10:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "158",
+            "dayOfWeek": "5",
+            "startHour": "10:20:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "159",
+            "dayOfWeek": "5",
+            "startHour": "11:00:01",
+            "endHour": "11:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "160",
+            "dayOfWeek": "5",
+            "startHour": "11:30:01",
+            "endHour": "12:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "161",
+            "dayOfWeek": "5",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "162",
+            "dayOfWeek": "5",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "163",
+            "dayOfWeek": "5",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "164",
+            "dayOfWeek": "5",
+            "startHour": "12:25:01",
+            "endHour": "13:15:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "165",
+            "dayOfWeek": "5",
+            "startHour": "13:15:01",
+            "endHour": "13:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "166",
+            "dayOfWeek": "5",
+            "startHour": "13:20:01",
+            "endHour": "14:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "167",
+            "dayOfWeek": "5",
+            "startHour": "14:00:01",
+            "endHour": "15:00:00",
+            "title": "Powt\u00f3rka audycji z dnia poprzedniego",
+            "author": ""
+        },
+        {
+            "id": "168",
+            "dayOfWeek": "5",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "169",
+            "dayOfWeek": "5",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "170",
+            "dayOfWeek": "5",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "171",
+            "dayOfWeek": "5",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "172",
+            "dayOfWeek": "5",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "173",
+            "dayOfWeek": "5",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "174",
+            "dayOfWeek": "5",
+            "startHour": "17:00:01",
+            "endHour": "17:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "175",
+            "dayOfWeek": "5",
+            "startHour": "17:30:01",
+            "endHour": "18:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "176",
+            "dayOfWeek": "5",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Audycja na \u017cywo ze studia Radia Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "177",
+            "dayOfWeek": "5",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "178",
+            "dayOfWeek": "5",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "179",
+            "dayOfWeek": "5",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "180",
+            "dayOfWeek": "5",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "181",
+            "dayOfWeek": "6",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "182",
+            "dayOfWeek": "6",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "183",
+            "dayOfWeek": "6",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "184",
+            "dayOfWeek": "6",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "185",
+            "dayOfWeek": "6",
+            "startHour": "07:00:01",
+            "endHour": "07:35:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "186",
+            "dayOfWeek": "6",
+            "startHour": "07:35:01",
+            "endHour": "08:00:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "187",
+            "dayOfWeek": "6",
+            "startHour": "08:00:01",
+            "endHour": "08:15:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "188",
+            "dayOfWeek": "6",
+            "startHour": "08:15:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "189",
+            "dayOfWeek": "6",
+            "startHour": "08:30:01",
+            "endHour": "09:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "190",
+            "dayOfWeek": "6",
+            "startHour": "09:00:01",
+            "endHour": "09:10:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "191",
+            "dayOfWeek": "6",
+            "startHour": "09:10:01",
+            "endHour": "09:50:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "192",
+            "dayOfWeek": "6",
+            "startHour": "09:50:01",
+            "endHour": "10:15:00",
+            "title": "Przegl\u0105d prasy katolickiej z Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "193",
+            "dayOfWeek": "6",
+            "startHour": "10:15:01",
+            "endHour": "10:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "194",
+            "dayOfWeek": "6",
+            "startHour": "10:20:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "195",
+            "dayOfWeek": "6",
+            "startHour": "11:00:01",
+            "endHour": "11:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "196",
+            "dayOfWeek": "6",
+            "startHour": "11:30:01",
+            "endHour": "12:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "197",
+            "dayOfWeek": "6",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "198",
+            "dayOfWeek": "6",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "199",
+            "dayOfWeek": "6",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "200",
+            "dayOfWeek": "6",
+            "startHour": "12:25:01",
+            "endHour": "13:15:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "201",
+            "dayOfWeek": "6",
+            "startHour": "13:15:01",
+            "endHour": "13:20:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "202",
+            "dayOfWeek": "6",
+            "startHour": "13:20:01",
+            "endHour": "14:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "203",
+            "dayOfWeek": "6",
+            "startHour": "14:00:01",
+            "endHour": "15:00:00",
+            "title": "Powt\u00f3rka audycji z dnia poprzedniego",
+            "author": ""
+        },
+        {
+            "id": "204",
+            "dayOfWeek": "6",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "205",
+            "dayOfWeek": "6",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "206",
+            "dayOfWeek": "6",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "207",
+            "dayOfWeek": "6",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "208",
+            "dayOfWeek": "6",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "209",
+            "dayOfWeek": "6",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "210",
+            "dayOfWeek": "6",
+            "startHour": "17:00:01",
+            "endHour": "17:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "211",
+            "dayOfWeek": "6",
+            "startHour": "17:30:01",
+            "endHour": "18:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "212",
+            "dayOfWeek": "6",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Audycja na \u017cywo ze studia Radia Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "213",
+            "dayOfWeek": "6",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "214",
+            "dayOfWeek": "6",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "215",
+            "dayOfWeek": "6",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "216",
+            "dayOfWeek": "6",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "217",
+            "dayOfWeek": "7",
+            "startHour": "00:00:01",
+            "endHour": "06:00:00",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "218",
+            "dayOfWeek": "7",
+            "startHour": "06:00:01",
+            "endHour": "06:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "219",
+            "dayOfWeek": "7",
+            "startHour": "06:15:01",
+            "endHour": "06:20:00",
+            "title": "Pie\u015b\u0144 \"kiedy ranne wstaj\u0105 zorze\"",
+            "author": ""
+        },
+        {
+            "id": "220",
+            "dayOfWeek": "7",
+            "startHour": "06:20:01",
+            "endHour": "07:00:00",
+            "title": "Muzyka \"poranek z radiem Ain Karim",
+            "author": ""
+        },
+        {
+            "id": "221",
+            "dayOfWeek": "7",
+            "startHour": "07:00:01",
+            "endHour": "08:00:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "222",
+            "dayOfWeek": "7",
+            "startHour": "08:00:01",
+            "endHour": "08:20:00",
+            "title": "Modlitwa r\u00f3\u017ca\u0144cowa",
+            "author": ""
+        },
+        {
+            "id": "223",
+            "dayOfWeek": "7",
+            "startHour": "08:20:01",
+            "endHour": "08:30:00",
+            "title": "Wiadomo\u015bci Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "224",
+            "dayOfWeek": "7",
+            "startHour": "08:30:01",
+            "endHour": "09:30:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafianego",
+            "author": ""
+        },
+        {
+            "id": "225",
+            "dayOfWeek": "7",
+            "startHour": "09:30:01",
+            "endHour": "10:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "226",
+            "dayOfWeek": "7",
+            "startHour": "10:00:01",
+            "endHour": "10:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "227",
+            "dayOfWeek": "7",
+            "startHour": "10:15:01",
+            "endHour": "11:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "228",
+            "dayOfWeek": "7",
+            "startHour": "11:00:01",
+            "endHour": "12:00:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafianego (suma)",
+            "author": ""
+        },
+        {
+            "id": "229",
+            "dayOfWeek": "7",
+            "startHour": "12:00:01",
+            "endHour": "12:05:00",
+            "title": "Modlitwa na Anio\u0142 pa\u0144ski",
+            "author": ""
+        },
+        {
+            "id": "230",
+            "dayOfWeek": "7",
+            "startHour": "12:05:01",
+            "endHour": "12:15:00",
+            "title": "Rozwa\u017canie Ewangelii na dzi\u015b \"Modlitwa w drodze\"",
+            "author": ""
+        },
+        {
+            "id": "231",
+            "dayOfWeek": "7",
+            "startHour": "12:15:01",
+            "endHour": "12:25:00",
+            "title": "Nowy Testament superprodukcja 2 rozdzia\u0142y \"audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "232",
+            "dayOfWeek": "7",
+            "startHour": "12:25:01",
+            "endHour": "13:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "233",
+            "dayOfWeek": "7",
+            "startHour": "13:00:01",
+            "endHour": "14:30:00",
+            "title": "Radiowy koncert \u017cycze\u0144",
+            "author": ""
+        },
+        {
+            "id": "234",
+            "dayOfWeek": "7",
+            "startHour": "14:30:01",
+            "endHour": "15:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "235",
+            "dayOfWeek": "7",
+            "startHour": "15:00:01",
+            "endHour": "15:20:00",
+            "title": "Koronka do Bo\u017cego Mi\u0142osierdzia (Transmisja z sanktuarium Bo\u017cego Mi\u0142osierdzia w Krakowie-\u0141agiewnikach",
+            "author": ""
+        },
+        {
+            "id": "236",
+            "dayOfWeek": "7",
+            "startHour": "15:20:01",
+            "endHour": "15:45:00",
+            "title": "Dzienniczek \u015aw. Siostry Faustyny Kowalskiej \"Audiobook\"",
+            "author": ""
+        },
+        {
+            "id": "237",
+            "dayOfWeek": "7",
+            "startHour": "15:45:01",
+            "endHour": "16:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "238",
+            "dayOfWeek": "7",
+            "startHour": "16:00:01",
+            "endHour": "16:30:00",
+            "title": "Audiobook",
+            "author": ""
+        },
+        {
+            "id": "239",
+            "dayOfWeek": "7",
+            "startHour": "16:30:01",
+            "endHour": "16:45:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "240",
+            "dayOfWeek": "7",
+            "startHour": "16:45:01",
+            "endHour": "17:00:00",
+            "title": "Wiadomo\u015bci Radia Watyka\u0144skiego",
+            "author": ""
+        },
+        {
+            "id": "241",
+            "dayOfWeek": "7",
+            "startHour": "17:00:01",
+            "endHour": "18:00:00",
+            "title": "Transmisja Mszy \u015awi\u0119tej z ko\u015bcio\u0142a parafialnego",
+            "author": ""
+        },
+        {
+            "id": "242",
+            "dayOfWeek": "7",
+            "startHour": "18:00:01",
+            "endHour": "19:00:00",
+            "title": "Muzyka",
+            "author": ""
+        },
+        {
+            "id": "243",
+            "dayOfWeek": "7",
+            "startHour": "19:00:01",
+            "endHour": "20:00:00",
+            "title": "Kocia Dobranocka",
+            "author": ""
+        },
+        {
+            "id": "244",
+            "dayOfWeek": "7",
+            "startHour": "20:00:01",
+            "endHour": "21:00:00",
+            "title": "Ksi\u0119ga Apelowa retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        },
+        {
+            "id": "245",
+            "dayOfWeek": "7",
+            "startHour": "21:00:01",
+            "endHour": "21:30:00",
+            "title": "Apel Jasnog\u00f3rski",
+            "author": ""
+        },
+        {
+            "id": "246",
+            "dayOfWeek": "7",
+            "startHour": "21:30:01",
+            "endHour": "23:59:59",
+            "title": "Retransmisja Radia Jasna G\u00f3ra",
+            "author": ""
+        }
+    ]
+}
