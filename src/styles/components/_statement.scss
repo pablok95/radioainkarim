@@ -1,0 +1,29 @@
+.statement {
+  margin: auto;
+  max-width: 360px;
+
+  @media ($medium) {
+    max-width: 380px;
+  }
+
+  @media ($large) {
+    max-width: 400px;
+  }
+}
+
+.statement h3 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    color: $secondary-txt-color;
+    line-height: 1.2;
+    margin-top: 20px;
+
+    @media ($large) {
+        font-size: 22px;
+    }
+
+    @media ($xlarge) {
+        font-size: 28px;
+    }
+}

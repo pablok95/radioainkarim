@@ -1,0 +1,69 @@
+.donate h4 {
+  font-size: 22px;
+  text-transform: uppercase;
+  line-height: 1.2;
+  margin-top: 30px;
+
+  @media ($medium) {
+    font-size: 32px;
+  }
+}
+
+.donate h4:first-of-type {
+  border-bottom: 1px solid $primary-border-color;
+  padding-bottom: 5px;
+}
+
+.donate h4:last-of-type {
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 28px;
+
+  @media ($medium) {
+    margin-top: 30px;
+  }
+}
+
+.donate .wrapper {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 15px;
+  margin-bottom: 0;
+  padding: 10px 0;
+}
+
+.donate .icon-wrapper {
+  margin-right: 10px;
+}
+
+.donate .content p.font-weight-bold {
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.donate .wrapper svg,
+.donate .wrapper h5 {
+  color: $secondary-txt-color;
+}
+
+.donate .wrapper svg {
+  font-size: 48px;
+  margin: 0 auto;
+  display: block;
+}
+
+.donate .wrapper h5 {
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 0;
+
+  @media ($medium) {
+    font-size: 24px;
+  }
+}
+
+.donate .wrapper span {
+  color: $paragraph-txt-color;
+}

@@ -1,0 +1,63 @@
+.nav-tab-home {
+  background-color: #f1f1f3;
+  padding-top: 15px;
+
+  @media ($medium) {
+    padding-top: 20px;
+  }
+
+  @media ($large) {
+    padding-top: 25px;
+  }
+
+  @media ($xlarge) {
+    padding-top: 30px;
+  }
+}
+
+.nav-tab {
+  background-color: #f1f1f3;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-tab-home .tab {
+  background-color: #ffffff;
+}
+
+.nav-tab-btn {
+  color: $accent-bg-color;
+  font-weight: 500;
+  text-transform: uppercase;
+  outline: none;
+  border: none;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #f1f1f3;
+  font-size: calc(1vw + 9px);
+  padding: 12px 15px;
+  transition: $time1;
+
+  @media ($small) {
+    padding: 14px 25px;
+  }
+
+  @media ($medium) {
+    font-size: 16px;
+    padding: 13px 50px;
+  }
+
+  @media ($xlarge) {
+    font-size: 18px;
+    padding: 14px 60px;
+  }
+}
+
+.nav-tab-btn:hover {
+  color: $accent-bg-color * 1.2;
+}
+
+.nav-tab-btn.active {
+  background-color: #ffffff;
+}

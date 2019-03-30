@@ -1,0 +1,33 @@
+.concert {
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.concert .form {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 5px #dddddd;
+
+  @media ($medium) {
+    margin: 0 0 0 auto;
+  }
+}
+
+.concert .container {
+  @media ($medium) {
+    max-width: none;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  @media ($large) {
+    max-width: 960px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  @media ($xlarge) {
+    max-width: 1140px;
+  }
+}

@@ -1,0 +1,28 @@
+.header-player {
+    background-color: $dark-bg-color;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 10px 15px;
+
+    @media ($small) {
+        flex-direction: row;
+        text-align: left;
+    }
+}
+
+.header-player .accent-color {
+    display: block;
+}
+
+.header-player .content span:last-child {
+    font-size: 14px;
+
+    @media ($medium) {
+        font-size: 16px;
+    }
+}

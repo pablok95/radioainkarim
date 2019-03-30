@@ -1,0 +1,67 @@
+.title-section {
+  display: block;
+  margin-bottom: 15px;
+
+  @media ($small) {
+    margin-bottom: 20px;
+  }
+  @media ($medium) {
+    margin-bottom: 25px;
+  }
+  @media ($large) {
+    margin-bottom: 30px;
+  }
+  @media ($xlarge) {
+    margin-bottom: 35px;
+  }
+}
+
+.title-section .description {
+  display: inline-block;
+  height: 30px;
+  padding: 0 10px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 5px;
+  background-color: $accent-bg-color;
+  color: #ffffff;
+}
+
+.title-section h2 {
+  text-transform: uppercase;
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: $header-txt-color;
+  margin: 0;
+
+  @media ($small) {
+    font-size: 38px;
+  }
+
+  @media ($medium) {
+    font-size: 42px;
+  }
+
+  @media ($large) {
+    font-size: 46px;
+  }
+
+  @media ($xlarge) {
+    font-size: 50px;
+  }
+}
+
+.title-section h3 {
+  font-size: 20px;
+  font-weight: 500;
+
+  @media ($medium) {
+    font-size: 24px;
+  }
+
+  @media ($xlarge) {
+    font-size: 28px;
+  }
+}

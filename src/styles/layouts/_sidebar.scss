@@ -1,0 +1,70 @@
+.sidebar .title-side {
+    font-size: 20px;
+    margin-top: 15px;
+    background-color: $accent-bg-color;
+    color: #ffffff;
+    padding: 8px 15px;
+    border-radius: 4px;
+}
+
+.sidebar .ts-first {
+    @media ($large) {
+        margin-top: 0;
+    }
+}
+
+.sidebar div.content {
+    border-radius: 4px;
+    background-color: transparent;
+
+    p, h4 {
+        color: $paragraph-txt-color;
+
+        b {
+            font-weight: 700;
+        }
+    }
+
+    h4 {
+        font-size: 1.2rem;
+        line-height: 1;
+
+        &:last-of-type {
+            margin-top: 15px;
+        }
+    }
+
+    p {
+        margin: 0;
+
+        @media ($medium) {
+            font-size: 15px;
+        }
+
+        @media ($large) {
+            font-size: 16px;
+        }
+    }
+}
+
+.sidebar a {
+    display: block;
+    color: $paragraph-txt-color;
+    line-height: 1.1;
+    font-weight: 600;
+
+    &:not(:last-of-type) {
+        margin-bottom: 30px;
+    }
+
+    span {
+        display: inline-block;
+        color: $primary-txt-color;
+        margin-left: 5px;
+        font-weight: 300;
+    }
+}
+
+.sidebar li:not(:last-child) {
+    margin-bottom: 10px;
+}

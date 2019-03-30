@@ -1,0 +1,74 @@
+.volunteer {
+  position: relative;
+  display: block;
+  margin: 20px auto 0 auto;
+  max-width: 300px;
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: default;
+
+  .img-wrapper {
+    border-radius: 0;
+  }
+
+  @media ($medium) {
+    margin-top: 30px;
+  }
+
+  @media ($xlarge) {
+    margin-top: 50px;
+  }
+}
+
+.volunteer:hover {
+  box-shadow: 0 0 2px #333333;
+  .content {
+    opacity: 1;
+  }
+}
+
+.volunteer .content {
+  opacity: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: $time1 $timing-function;
+  will-change: opacity;
+
+  h3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    font-weight: 900;
+    text-align: center;
+    color: #ffffff;
+    opacity: 1;
+    z-index: 999;
+  }
+}
+
+.volunteer .content::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(48deg, #18a9ff 0, #32dbff 99%, #32dbff 100%);
+  opacity: 0.8;
+  z-index: 1;
+}
+
+.volunteer .img-wrapper {
+  max-height: 198px;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}

@@ -1,0 +1,78 @@
+.form {
+  max-width: 360px;
+
+  @media ($medium) {
+    max-width: 380px;
+  }
+
+  @media ($large) {
+    max-width: 400px;
+  }
+}
+
+.form-item {
+  position: relative;
+  width: 100%;
+  // margin-bottom: 25px;
+
+  textarea {
+    resize: none;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    border-radius: 0;
+    border: none;
+    outline: none;
+    background-color: $primary-bg-color;
+    color: $primary-txt-color;
+    box-shadow: 0 0 1px $accent-bg-color;
+    transition: $time1 $timing-function;
+
+    &::placeholder {
+      color: $light-txt-color;
+    }
+
+    &:hover {
+      box-shadow: 0 0 3px $accent-bg-color;
+    }
+
+    &:focus {
+      box-shadow: 0 0 5px $accent-bg-color;
+    }
+  }
+}
+
+.item-agreement {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+
+  input {
+    margin-top: 5px;
+    margin-right: 5px;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.form-error-msg {
+  position: relative;
+  margin-bottom: 2px;
+  font-size: 11px;
+  color: rgb(255, 0, 76);
+  line-height: 1.4;
+
+  @media ($medium) {
+    font-size: 12px;
+  }
+
+  @media ($large) {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,55 @@
+.player-aside {
+  display: none;
+
+  @media ($medium) {
+    display: block;
+    position: fixed;
+    right: -30px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 99999;
+    background: linear-gradient(48deg, #18a9ff 0, #32dbff 99%, #32dbff 100%);
+    border-radius: 100%;
+    width: 130px;
+    height: 140px;
+    cursor: default;
+    opacity: 0.9;
+    transition: $time1 $timing-function;
+
+    &:hover {
+        opacity: 1;
+    }
+  }
+
+  @media ($large) {
+      width: 150px;
+      height: 160px;
+      right: -40px;
+  }
+}
+
+.player-aside .button {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+}
+
+.player-aside .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.2;
+  color: #ffffff;
+  width: 80%;
+  padding: 10px 30px 10px 10px;
+  text-align: right;
+
+  @media ($large) {
+      padding-right: 40px;
+  }
+
+  strong {
+    text-transform: uppercase;
+  }
+}

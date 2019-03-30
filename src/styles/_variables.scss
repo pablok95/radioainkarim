@@ -1,0 +1,30 @@
+// Background colors
+$primary-bg-color: #ffffff;
+$secondary-bg-color: #243b5d;
+$dark-bg-color: #26272c;
+$light-bg-color: #969696;
+$accent-bg-color: #1996ff;
+$other-bg-color: #f1f1f3;
+
+// Text colors
+$primary-txt-color: #0b0c0e;
+$secondary-txt-color: #1996ff;
+$light-txt-color: #969696;
+$header-txt-color: #0b0c0e;
+$paragraph-txt-color: #333333;
+
+// Border colors
+$primary-border-color: #f1f1f3;
+$secondary-border-color: #1996ff;
+$input-border-color: #969696;
+
+
+// Animation time duration
+$time1: .3s;
+$timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+
+// Media queries
+$small: 'min-width: 576px';
+$medium: 'min-width: 768px';
+$large: 'min-width: 992px';
+$xlarge: 'min-width: 1200px';

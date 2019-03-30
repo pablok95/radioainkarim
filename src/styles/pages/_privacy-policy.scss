@@ -1,0 +1,30 @@
+.privacy-policy {
+  .section-header {
+    margin-bottom: 25px;
+
+    @media ($large) {
+      margin-bottom: 30px;
+    }
+  }
+
+  p strong {
+    font-size: 1.2rem;
+  }
+
+  li {
+    margin-top: 1rem;
+  }
+
+  ol,
+  ul {
+    margin-left: 1rem;
+  }
+
+  ol {
+    list-style: lower-alpha;
+  }
+
+  ul {
+    list-style: decimal;
+  }
+}

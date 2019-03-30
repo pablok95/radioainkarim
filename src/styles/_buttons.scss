@@ -1,0 +1,105 @@
+.btn {
+  display: block;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+  line-height: 1;
+  font-weight: 700;
+  padding: 10px 25px;
+  transition: $time1 $timing-function;
+}
+
+.btn-1 {
+  margin: 15px auto 0 auto;
+  background-color: $primary-bg-color;
+  color: $light-txt-color;
+  box-shadow: 0 0 0 2px $input-border-color;
+
+  &:hover {
+    box-shadow: 0 0 0 2px $secondary-border-color, 0 0 2px 2px $secondary-border-color;
+    color: $secondary-border-color;
+  }
+
+  @media ($large) {
+    margin: 20px 0 0 0;
+  }
+}
+
+.btn-2 {
+  display: block;
+  margin-top: 15px;
+  padding: 12px 25px;
+  max-width: 170px;
+  text-align: center;
+  background-color: $primary-bg-color;
+  color: $secondary-txt-color;
+
+  &:hover {
+    box-shadow: 0 0 2px 2px $input-border-color;
+    color: $light-txt-color;
+  }
+
+  @media ($large) {
+    margin: 20px 0 0 0;
+    padding: 15px 30px;
+    max-width: 180px;
+  }
+}
+
+.btn-click-play {
+  display: inline-block;
+  text-transform: uppercase;
+  box-shadow: 0 0 0 2px $primary-border-color;
+  margin-bottom: 10px;
+  font-size: 14px;
+  padding: 15px 25px;
+
+  @media ($large) {
+    margin: 5px 0 15px 0;
+    padding: 16px 30px;
+  }
+
+  .play-icon {
+    display: inline-block;
+    margin-left: -8px;
+    margin-right: 8px;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 10px solid $dark-bg-color;
+    transition: $time1;
+  }
+}
+
+.btn-click-play:hover {
+  box-shadow: 0 0 0 2px $accent-bg-color;
+  color: $secondary-txt-color;
+
+  .play-icon {
+    border-left-color: $accent-bg-color;
+  }
+}
+
+.btn-form {
+  display: block;
+  width: 100%;
+  background-color: $accent-bg-color;
+  color: #fff;
+  border: none;
+  outline: none;
+  height: 40px;
+  text-transform: uppercase;
+
+  &:focus,
+  &:focus-within,
+  &:visited {
+    background-color: $accent-bg-color;
+    color: #fff;
+  }
+
+  &:active,
+  &:hover {
+    background-color: #fff;
+    color: $secondary-txt-color;
+    box-shadow: 0 0 2px 2px $secondary-border-color;
+  }
+}

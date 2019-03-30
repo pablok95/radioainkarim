@@ -1,0 +1,88 @@
+.contact {
+  text-align: center;
+
+  @media ($medium) {
+    text-align: justify;
+  }
+}
+
+.contact .form {
+  margin: 20px auto 0 auto;
+
+  @media ($medium) {
+    margin-top: 25px;
+  }
+}
+
+.contact h2 {
+  font-size: 30px;
+  line-height: 1;
+  margin-bottom: 10px;
+  text-align: center;
+
+  @media ($medium) {
+    font-size: 28px;
+    margin-bottom: 25px;
+  }
+
+  @media ($large) {
+    font-size: calc(2vw + 7px);
+    margin-bottom: 30px;
+  }
+
+  @media ($xlarge) {
+    font-size: calc(0.2 + 24px);
+    margin-bottom: 35px;
+  }
+}
+
+.icon-wrapper {
+  width: 50px;
+  padding-right: 10px;
+  text-align: center;
+
+  @media ($large) {
+    padding-right: 15px;
+  }
+}
+
+.item-contact-wrapper svg {
+  color: $accent-bg-color;
+}
+
+.item-contact-wrapper h3 {
+  margin: 10px 0 5px 0;
+
+  @media ($medium) {
+    margin-top: 15px;
+  }
+}
+
+.item-contact-wrapper {
+  max-width: 320px;
+  margin: 0 auto;
+
+  @media ($medium) {
+    margin: 0;
+    max-width: none;
+  }
+}
+
+.item-contact-wrapper .item {
+  background-color: $other-bg-color;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 10px;
+
+  @media ($large) {
+    padding: 10px 15px;
+  }
+}
+
+.item-contact-wrapper .item p,
+.item-contact-wrapper .item a {
+  margin: 0;
+  text-align: left;
+  width: calc(100% - 50px);
+}

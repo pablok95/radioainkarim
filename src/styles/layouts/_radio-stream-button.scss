@@ -1,0 +1,58 @@
+$size-button: 36px;
+
+.button {
+  position: relative;
+  margin: 5px 10px;
+  width: $size-button;
+  height: $size-button;
+  border-radius: 50%;
+  box-shadow: 0 0 7px #00a0ff;
+
+  @media ($small) {
+    margin: 2px 15px;
+  }
+}
+
+.button:hover::before {
+  box-shadow: 0 0 8px #00a0ff;
+  opacity: 1;
+}
+
+.button::before {
+  content: "";
+  @include absolute-center;
+  border-radius: 50%;
+  width: $size-button;
+  height: $size-button;
+  opacity: 0;
+  transition: $time1;
+}
+
+.play,
+.pause {
+  @include absolute-center;
+  width: $size-button;
+  height: $size-button;
+  border-radius: 50%;
+
+  &::after {
+    content: "";
+    @include absolute-center;
+    width: auto;
+  }
+}
+
+.pause::after {
+  border-style: double;
+  border-width: 0 0 0 12px;
+  height: 12px;
+}
+
+.play::after {
+  border-style: solid;
+  border-width: 7px 0 7px 12px;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  margin-left: 1px;
+}

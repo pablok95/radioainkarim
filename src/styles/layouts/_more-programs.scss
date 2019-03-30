@@ -1,0 +1,115 @@
+.more-programs {
+  position: relative;
+  overflow: hidden;
+  // background-color: $accent-bg-color;
+}
+
+.more-programs img {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+
+  @media ($small) {
+    width: calc(200px + 40vw);
+    min-width: auto;
+    min-height: auto;
+    height: auto;
+  }
+
+  @media ($large) {
+    transform: translateY(0);
+    top: -50%;
+    width: calc(200px + 50vw);
+  }
+
+  @media ($xlarge) {
+    transform: translateY(-10%);
+    top: -50%;
+    width: calc(200px + 50vw);
+  }
+}
+
+.more-programs .content {
+  position: relative;
+  text-align: center;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0), $accent-bg-color);
+  padding: 30px 15px;
+
+  @media ($small) {
+    text-align: left;
+    padding: 50px 0 50px 50px;
+    background-color: $accent-bg-color;
+  }
+
+  @media ($medium) {
+    padding: 70px 0 70px 60px;
+  }
+
+  @media ($large) {
+    padding: 80px 0 80px 40px;
+  }
+
+  @media ($xlarge) {
+    padding: 90px 0 90px 50px;
+  }
+}
+
+.more-programs .content::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: -200px;
+  width: 200px;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0), $accent-bg-color);
+
+  @media ($large) {
+    left: -400px;
+    width: 400px;
+  }
+}
+
+.more-programs h2 {
+  color: #ffffff;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1;
+  font-size: 24px;
+
+  @media ($medium) {
+    font-size: 28px;
+  }
+
+  @media ($large) {
+    font-size: 32px;
+  }
+}
+
+.more-programs h2 strong {
+  display: block;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+
+  @media ($medium) {
+    font-size: 36px;
+  }
+
+  @media ($large) {
+    font-size: 42px;
+  }
+}
+
+.more-programs .btn {
+  margin-left: auto;
+  margin-right: auto;
+
+  @media ($small) {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

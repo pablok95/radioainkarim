@@ -1,0 +1,37 @@
+.post {
+    background-color: $other-bg-color;
+}
+
+.post .content {
+    background-color: $primary-bg-color;
+    padding: 15px;
+}
+
+.post .content img {
+    border-radius: 4px;
+    width: 100%;
+    height: auto;
+}
+
+.post .content .info {
+    margin: 15px 0;
+
+    .accent-color {
+        font-weight: 700;
+    }
+}
+
+.post .content .title {
+    font-size: 28px;
+    margin-bottom: 15px;
+
+    @media ($medium) {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+
+    @media ($large) {
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+}

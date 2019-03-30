@@ -1,0 +1,210 @@
+.main-nav {
+  position: relative;
+  background-color: #fff;
+  padding: 5px 0;
+  box-shadow: 0 0 10px #333333;
+  z-index: 9999;
+
+  @media ($medium) {
+    height: auto;
+  }
+}
+
+.main-nav .container {
+  @media ($medium) {
+    max-width: none;
+    padding: 0 30px;
+  }
+
+  @media ($large) {
+    max-width: 960px;
+    padding: 0 15px;
+  }
+
+  @media ($xlarge) {
+    max-width: 1140px;
+  }
+}
+
+.main-nav .mobile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+
+  @media ($medium) {
+    display: none;
+  }
+
+  img {
+    width: 60px;
+
+    @media ($small) {
+      width: 70px;
+    }
+  }
+}
+
+.nav-list.active {
+  transform: translate(0, 65px);
+  opacity: .95;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 520px;
+  min-width: 260px;
+  max-width: 280px;
+  padding: 30px 50px;
+  background-color: $primary-bg-color;
+  border-top-right-radius: 300px;
+  border-bottom-right-radius: 300px;
+  box-shadow: 1px 0 7px $light-bg-color;
+  transition: $time1 $timing-function;
+  z-index: 9999;
+  opacity: 0;
+  will-change: transform, opacity;
+  transform: translate(-50px, 100%);
+
+  @media ($medium) {
+    opacity: 1;
+    transform: none;
+    background-color: $primary-bg-color;
+    align-items: center;
+    position: static;
+    flex-direction: row;
+    justify-content: space-between;
+    height: auto;
+    max-width: none;
+    padding: 0;
+    box-shadow: none;
+  }
+}
+
+.nav-list-item {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 5px 0;
+
+  @media ($medium) {
+    padding: 0;
+    font-size: calc(.5vw + 12px);
+  }
+
+  @media ($large) {
+    font-weight: 700;
+  }
+
+  @media ($xlarge) {
+    font-size: 18px;
+  }
+}
+
+.nav-list-item:not(:first-child) {
+  @media ($medium) {
+    padding: 5px 0;
+  }
+}
+
+.nav-list-item:first-child img {
+  opacity: 1;
+  transition: $time1;
+  will-change: opacity;
+  display: none;
+
+  &:hover {
+    opacity: 0.9;
+  }
+  @media ($medium) {
+    display: block;
+    width: 70px;
+  }
+
+  @media ($large) {
+    width: 80px;
+  }
+
+  @media ($xlarge) {
+    width: 90px;
+  }
+}
+
+.nav-list-item-link {
+  position: relative;
+  color: $primary-txt-color;
+}
+
+.nav-list-item:hover .nav-list-item-link, .active {
+  color: $secondary-txt-color;
+}
+
+.nav-list-item:not(:first-child) .nav-list-item-link::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 35px;
+  height: 5px;
+  background-color: $accent-bg-color;
+  bottom: -7px;
+  left: 0;
+  transition: $time1;
+  transform: translateX(-35px);
+  will-change: transform;
+}
+
+.nav-list-item:hover .nav-list-item-link::after {
+  transform: translateX(0);
+}
+
+.menu-icon {
+  position: relative;
+  width: 32px;
+  height: 22px;
+  cursor: pointer;
+}
+
+.menu-icon .icon {
+  display: block;
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  background-color: $dark-bg-color;
+  opacity: 1;
+  left: 0;
+  top: 0;
+  transform-origin: left center;
+  transition: $time1;
+  will-change: transform, opacity;
+}
+
+.menu-icon .bar1 {
+  top: 0;
+}
+
+.menu-icon .bar2 {
+  top: 50%;
+}
+.menu-icon .bar3 {
+  top: 100%;
+}
+
+.menu-icon.change .bar1 {
+  transform: rotate(45deg);
+}
+
+.menu-icon.change .bar2 {
+  opacity: 0;
+  width: 0%;
+}
+
+.menu-icon.change .bar3 {
+  transform: rotate(-45deg);
+}

@@ -1,0 +1,40 @@
+$xs-padding: 25px;
+$sm-padding: 30px;
+$md-padding: 35px;
+$lg-padding: 40px;
+$xl-padding: 45px;
+
+.section-padding {
+  padding: $xs-padding 0;
+
+  @media ($small) {
+    padding: $sm-padding 0;
+  }
+
+  @media ($medium) {
+    padding: $md-padding 0;
+  }
+
+  @media ($large) {
+    padding: $lg-padding 0;
+  }
+
+  @media ($xlarge) {
+    padding: $xl-padding 0;
+  }
+}
+
+.section-header {
+  color: $primary-txt-color;
+  text-align: center;
+  font-weight: 500;
+  font-size: calc(3vw + 24px);
+
+  @media ($small) {
+    font-size: 36px;
+  }
+
+  @media ($medium) {
+    font-size: 42px;
+  }
+}
