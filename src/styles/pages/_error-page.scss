@@ -1,0 +1,27 @@
+.error-page {
+  background-color: #fbfbfb;
+  padding: 20px 0;
+
+  @media ($medium) {
+    padding: 40px 0;
+  }
+}
+
+.error-page .error-title {
+  font-size: 100px;
+  line-height: 1;
+  text-align: center;
+  color: $accent-bg-color;
+
+  @media ($medium) {
+    font-size: 140px;
+  }
+
+  @media ($large) {
+    font-size: 180px;
+  }
+}
+
+.error-page p strong {
+  font-size: 24px;
+}

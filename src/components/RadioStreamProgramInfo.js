@@ -79,9 +79,9 @@ class RadioStreamProgramInfo extends Component {
     render() {
         const { title, start, end } = this.state;
         return (
-            <span>
+            <span title={title}>
                 {!this.state.currentProgram ? "Brak danych" :
-                    `${this.changeTime(start)}-${this.changeTime(end)}  ${title}`}
+                    `${this.changeTime(start)}-${this.changeTime(end)}  ${title.slice(0, 36)}...`}
             </span>
         );
     }
