@@ -25,7 +25,7 @@ const Page = (props) => {
                         archiveAuditions={data.archiveAuditions}
                         donate={data.donate}
                         concert={data.concert} />
-                    } />
+                } />
 
                 <Route path="/o-radiu" exact component={
                     () => <About about={data.about} />

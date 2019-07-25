@@ -32,6 +32,13 @@ class App extends Component {
     this.getPages();
   }
 
+  componentDidUpdate(prevProps, prevState) {
+    // Wyrenderuj się jeśli wszyskie dane będą pobrane
+    if (this.state.posts.length === prevState.posts.length && this.state.about.length !== prevState.about.length)
+      this.setState({ loaded: true });
+    
+  }
+
   getPosts = async () => {
 
     const resp = await WpRadioAinKarim.get('/posts', {
@@ -49,7 +56,6 @@ class App extends Component {
     const posts = resp.data;
 
     this.setState({
-      loaded: true,
       posts,
       news,
       archiveAuditions,
@@ -69,7 +75,7 @@ class App extends Component {
     const about = resp.data.filter(item => item.id === 7);
     const concert = resp.data.filter(item => item.id === 15);
     const donate = resp.data.filter(item => item.id === 13);
-    const privacyPolicy = resp.data.filter(item => item.id === 17);
+    const privacyPolicy = resp.data.filter(item => item.id === 3);
 
     this.setState({
       about,
@@ -80,16 +86,18 @@ class App extends Component {
   }
 
   render() {
+    const { news, loaded } = this.state;
+
     return (
       <>
         <RadioStream />
 
         <Router>
-          {!this.state.loaded ? <Loader /> : (
+          {!loaded ? <Loader /> : (
             <div className="App">
               {<Navigation />}
               {<Page data={this.state} />}
-              {<Footer news={this.state.news} />}
+              {<Footer news={news} />}
             </div>
           )}
         </Router>
