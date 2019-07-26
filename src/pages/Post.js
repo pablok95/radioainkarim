@@ -3,6 +3,7 @@ import Loader from '../components/Loader';
 import Sidebar from '../layouts/Sidebar';
 import FormatDate from '../components/FormatDate';
 import WpRadioAinKarim from '../apis/WpRadioAinKarim';
+import altImage from '../images/koncert.jpg';
 
 
 class Post extends React.Component {
@@ -13,7 +14,7 @@ class Post extends React.Component {
             author: '',
             content: '',
             date: '',
-            imageSrc: '',
+            imageSrc: altImage,
             title: '',
         }
     }
@@ -44,7 +45,9 @@ class Post extends React.Component {
             }
         });
 
-        this.getImage(resp.data[0].featured_media);
+        if (resp.data[0].featured_media)
+            this.getImage(resp.data[0].featured_media);
+
         this.getAuthor(resp.data[0].author);
 
         this.setState({

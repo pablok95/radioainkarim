@@ -52,7 +52,7 @@ class App extends Component {
     const allNews = resp.data.filter(item => item.categories.indexOf(2) !== -1);
     const allAuditions = resp.data.filter(item => item.categories.indexOf(3) !== -1);
     const archiveAuditions = resp.data.filter(item => item.categories.indexOf(5) !== -1);
-    const reports = resp.data.filter(item => item.categories.indexOf(6) !== -1);
+    const reports = resp.data.filter(item => item.categories.indexOf(4) !== -1);
     const posts = resp.data;
 
     this.setState({

@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import NavElement from '../components/NavElement';
-import logo from '../images/logoRadioAinKarim.png';
+// import logo from '../images/logoRadioAinKarim.png';
+import logo from '../images/logo.svg';
 
 
 const navItems = [

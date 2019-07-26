@@ -3,18 +3,20 @@ import { Link } from 'react-router-dom';
 import Loader from '../components/Loader';
 import FormatDate from '../components/FormatDate';
 import WpRadioAinKarim from '../apis/WpRadioAinKarim';
+import altImage from '../images/koncert.jpg';
 
 
 class PostItem extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            imageSrc: '',
+            imageSrc: altImage,
         }
     }
 
     componentDidMount() {
-        this.getPostImage(this.props.mediaID);
+        if (this.props.mediaID)
+            this.getPostImage(this.props.mediaID);
     }
 
     getPostImage = async (mediaID) => {

@@ -1,12 +1,16 @@
 .main-nav {
   position: relative;
   background-color: #fff;
-  padding: 5px 0;
+  padding: 10px 0;
   box-shadow: 0 0 10px #333333;
   z-index: 9999;
 
   @media ($medium) {
     height: auto;
+  }
+
+  @media ($xlarge) {
+    padding: 12px 0;
   }
 }
 
@@ -30,17 +34,17 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 15px;
+  padding: 0px 15px;
 
   @media ($medium) {
     display: none;
   }
 
   img {
-    width: 60px;
+    width: 80px;
 
     @media ($small) {
-      width: 70px;
+      width: 100px;
     }
   }
 }
@@ -125,15 +129,15 @@
   }
   @media ($medium) {
     display: block;
-    width: 70px;
+    width: 90px;
   }
 
   @media ($large) {
-    width: 80px;
+    width: 100px;
   }
 
   @media ($xlarge) {
-    width: 90px;
+    width: 120px;
   }
 }
 

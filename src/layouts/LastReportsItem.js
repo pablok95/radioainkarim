@@ -19,7 +19,8 @@ class LastReportsItem extends Component {
     }
 
     componentDidMount() {
-        this.getImage(this.props.mediaID);
+        if(this.props.mediaID)
+            this.getImage(this.props.mediaID);
         this.getAuthor(this.props.author);
     }
 
